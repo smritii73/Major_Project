@@ -17,7 +17,7 @@ Virtual Environment (recommended)
 pip (Python package installer)
 Steps:
 1. Clone the Repository:
-   git clone <repository-link>
+   git clone https://github.com/smritii73/Major_Project.git
    cd Major_Project
 2. Set up a Virtual Environment: Create a virtual environment to isolate dependencies.
    python -m venv .venv
