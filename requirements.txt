@@ -6,3 +6,4 @@ tensorflow
 keras
 sklearn
 yfinance
+scikit-learn
